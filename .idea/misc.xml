@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/DOC CAMPUS/UMY/KAMPUS/sem4/PAM/SqlBaru/app/src/main/res/layout/activity_edit_teman.xml" value="0.25" />
         <entry key="..\:/DOC CAMPUS/UMY/KAMPUS/sem4/PAM/SqlBaru/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/DOC CAMPUS/UMY/KAMPUS/sem4/PAM/SqlBaru/app/src/main/res/layout/activity_tambah_teman.xml" value="0.25" />
         <entry key="..\:/DOC CAMPUS/UMY/KAMPUS/sem4/PAM/SqlBaru/app/src/main/res/layout/row_data_teman.xml" value="0.1" />
+        <entry key="..\:/DOC CAMPUS/UMY/KAMPUS/sem4/PAM/SqlBaru/app/src/main/res/menu/popup1.xml" value="0.3614583333333333" />
       </map>
     </option>
   </component>
